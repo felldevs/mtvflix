@@ -1,0 +1,113 @@
+{
+  "categorias": [
+    {
+      "titulo": "Rock",
+      "link": "https://www.youtube.com/user/MTV",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.youtube.com/user/MTV"
+      },
+      "videos": [
+        {
+          "titulo": "Audioslave - Like a Stone",
+          "url": "https://www.youtube.com/watch?v=7QU1nvuxaMA"
+        },
+        {
+          "titulo": "Red Hot Chili Peppers - Californication",
+          "url": "https://www.youtube.com/watch?v=YlUKcNNmywk"
+        },
+        {
+          "titulo": "Nirvana - Smells Like Teen Spirit",
+          "url": "https://www.youtube.com/watch?v=hTWKbfoikeg"
+        },
+        {
+          "titulo": "The Strokes - Last Nite",
+          "url": "https://www.youtube.com/watch?v=TOypSnKFHrE"
+        },
+        {
+          "titulo": "Silverchair - Miss You Love",
+          "url": "https://www.youtube.com/watch?v=c-eVmAzx4og"
+        }
+      ]
+    },
+    {
+      "titulo": "Pop",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.youtube.com/user/MTV"
+      },
+      "videos": [
+        {
+          "titulo": "Avril Lavigne - Complicated",
+          "url": "https://www.youtube.com/watch?v=5NPBIwQyPWE"
+        },
+        {
+          "titulo": "The Calling - Wherever You Will Go",
+          "url": "https://www.youtube.com/watch?v=iAP9AF6DCu4"
+        },
+        {
+          "titulo": "Britney Spears - Oops!...I Did It Again",
+          "url": "https://www.youtube.com/watch?v=CduA0TULnow"
+        },
+        {
+          "titulo": "NSYNC - Bye Bye Bye",
+          "url": "https://www.youtube.com/watch?v=Eo-KmOd3i7s"
+        }
+      ]
+    },
+    {
+      "titulo": "Punk Pop",
+      "cor": "orange",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.youtube.com/user/MTV"
+      },
+      "videos": [
+        {
+          "titulo": "blink-182 - All The Small Things",
+          "url": "https://www.youtube.com/watch?v=9Ht5RZpzPqw"
+        },
+        {
+          "titulo": "The Offspring - The Kids Aren't Alright",
+          "url": "https://www.youtube.com/watch?v=7iNbnineUCI"
+        },
+        {
+          "titulo": "Sum 41 - In Too Deep",
+          "url": "https://www.youtube.com/watch?v=emGri7i8Y2Y"
+        },
+        {
+          "titulo": "Good Charlotte - The Anthem",
+          "url": "https://www.youtube.com/watch?v=desJKYvdq9A"
+        }
+      ]
+    },
+    {
+      "titulo": "Metal",
+      "cor": "red",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.youtube.com/user/MTV"
+      },
+      "videos": [
+        {
+          "titulo": "Slipknot - Duality",
+          "url": "https://www.youtube.com/watch?v=6fVE8kSM43I"
+        },
+        {
+          "titulo": "Korn - Blind",
+          "url": "https://www.youtube.com/watch?v=SGK00Q7xx-s"
+        },
+        {
+          "titulo": "Nightwish - Nemo",
+          "url": "https://www.youtube.com/watch?v=kIBdpFJyFkc"
+        },
+        {
+          "titulo": "Rammstein - Du Hast",
+          "url": "https://www.youtube.com/watch?v=W3q8Od5qJio"
+        }
+      ]
+    }
+  ]
+}
